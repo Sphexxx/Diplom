@@ -14,7 +14,7 @@ From the [SkillFactory Data Science cource](https://skillfactory.ru/data-scienti
 ## Файлы проекта
 + Исходный датасет [База объектов недвижимости](https://drive.google.com/file/d/11-ZNNIdcQ7TbT8Y0nsQ3Q0eiYQP__NIW/view)
 + Основной файл проекта [diplom_v1.ipynb](https://github.com/Sphexxx/Diplom/blob/main/diplom_v1.ipynb)
-+ Сериалтзованная модель [diplom_model.pkl](https://drive.google.com/file/d/1Emm0apJ-2I9ZTJQIXQGwvyU0MhCeYEBt/view?usp=sharing)
++ Сериализованная модель [diplom_model.pkl](https://drive.google.com/file/d/1Emm0apJ-2I9ZTJQIXQGwvyU0MhCeYEBt/view?usp=sharing)
 + server.py - [сервер на Flask](https://github.com/Sphexxx/Diplom/blob/main/server.py)
 + client.py - [клиент для тестирования](https://github.com/Sphexxx/Diplom/blob/main/client.py)
 
