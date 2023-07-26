@@ -3,12 +3,6 @@ From the [SkillFactory Data Science cource](https://skillfactory.ru/data-scienti
 
 # Дипломная работа. «Модель прогнозирования стоимости жилья для агентства недвижимости»
 
-## Оглавление.
-* [1. Описание проекта]
-* [2. Какой кейс решаем?]
-* [3. Этапы работы над проектом]
-* [4. Результат]
-
 ### Описание проекта
 
 Предстоит решить настоящую задачу машинного обучения, направленную на оптимизацию сервисов и бизнес-процессов. Мы построим модель, которая будет предсказывать стоимость недвижимость по его характеристикам.
@@ -17,7 +11,10 @@ From the [SkillFactory Data Science cource](https://skillfactory.ru/data-scienti
 
 **Техническая задача** для вас как для специалиста в Data Science: разработать модель, которая позволила бы обойти конкурентов по скорости и качеству совершения сделок.
 
-### Какой кейс решаем?
+## Файлы проекта
++ Исходный датасет [База резюме HeadHunter](https://drive.google.com/file/d/11-ZNNIdcQ7TbT8Y0nsQ3Q0eiYQP__NIW/view)
++ Основной файл проекта [diplom_v1.ipynb](https://github.com/Sphexxx/Diplom/blob/main/diplom_v1.ipynb)
++ Обученная модель [diplom_model.pkl](https://drive.google.com/file/d/1Emm0apJ-2I9ZTJQIXQGwvyU0MhCeYEBt/view?usp=sharing)
 
 ## Цели проекта
 
@@ -34,6 +31,8 @@ From the [SkillFactory Data Science cource](https://skillfactory.ru/data-scienti
 + Соблюдены и выполнены все этапы проекта с заданиями, представлены обоснования и графики
 + Сделаны выводы на всех этапах проекта
 + Выполнен тестовый сабмит на вебсервер
+
+:arrow_up:[к оглавлению](https://github.com/Sphexxx/Diplom/blob/main/README.md#Оглавление)
 
 ### Этапы работы над проектом
 + Базовый анализ структуры данных.
@@ -58,6 +57,8 @@ From the [SkillFactory Data Science cource](https://skillfactory.ru/data-scienti
 
 5. Решение задачи регрессии: ансамбли моделей и построение прогноза
 На заключительном этапе сможем доработать своё предсказание с использованием более сложных алгоритмов и оценить, с помощью какой модели возможно сделать более качественные прогнозы.
+
+:arrow_up:[к оглавлению](https://github.com/Sphexxx/Diplom/blob/main/README.md#Оглавление)
 
 ### Результаты
 
